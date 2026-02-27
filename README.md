@@ -53,3 +53,6 @@
 ## Link Public TinkerCAD
 https://www.tinkercad.com/things/dURRD2ic4px-visioninspection-s3
 
+## So do nguon cap
+<img width="1076" height="747" alt="image" src="https://github.com/user-attachments/assets/172ff766-41fe-42cf-9b0f-772db11c1f61" />
+
