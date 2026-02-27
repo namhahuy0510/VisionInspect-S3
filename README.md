@@ -36,3 +36,12 @@
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bcb106c8-07f8-4578-b70e-2f7515c3e15e" />
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b5a38d9b-11a4-4da6-9e05-b70958db8520" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/fab89bd9-eddd-41dd-b233-8ec095891640" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d0d6e7ab-f0fb-4bd9-af0e-c7003c817d41" />
+
+
+## Hoan thanh demo
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f4570189-383e-44e7-a315-717885f26042" />
+
