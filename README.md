@@ -20,3 +20,9 @@
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/79142a75-1b32-476b-8acf-6e3ed350d545" />
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/5741c756-81db-4b0c-87df-97762c34df28" />
+
+
+## Lap 2 Led mini vao thiet bi
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/10d8e138-1a18-4dc1-b005-18484f7ef8ef" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/27e06968-837b-4219-b6c3-ccbd5c1d32bb" />
