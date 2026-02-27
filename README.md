@@ -61,3 +61,6 @@ https://www.tinkercad.com/things/dURRD2ic4px-visioninspection-s3
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/48ea440a-7805-4b65-8738-d3fe0c07c453" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/514af2b9-4878-439b-995c-eef6a0149597" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bd0046f0-3a27-40c4-ac2d-10990b21da47" />
+
