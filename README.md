@@ -45,6 +45,11 @@
 ## Hoan thanh demo
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f4570189-383e-44e7-a315-717885f26042" />
 
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/9e920724-1bf9-4b6d-b2ce-7b511d8b11c6" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd5720e8-f9a4-42ce-87e9-4f3d2174dfe7" />
+
+
 ## Link Public TinkerCAD
 https://www.tinkercad.com/things/dURRD2ic4px-visioninspection-s3
 
