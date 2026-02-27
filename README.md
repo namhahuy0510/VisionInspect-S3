@@ -5,3 +5,14 @@
 
 ## Export file 3d (.obj)
 <img width="1202" height="934" alt="image" src="https://github.com/user-attachments/assets/391f54c0-91b8-438a-8088-23bf152ee408" />
+
+## Import trong TinkerCAD de su dung model 3D ESP32-CAM co san
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/38edff89-7477-4a3f-a5d0-e1135d5bb65f" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bbd41158-1226-447e-a005-ddc6f457bd95" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6f8b3363-c31f-4af2-ad99-f34e4b79c119" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f42fe532-e125-431f-a249-cec5e5898aa2" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0d22ea52-9ac8-416a-808f-2848fbc8b074" />
