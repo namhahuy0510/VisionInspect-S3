@@ -29,3 +29,10 @@
 
 ## Hoan thanh Demo co khi
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1de528f6-ba58-4a70-a23c-4e97ee67661f" />
+
+## Them TFT display
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6bf6fe70-f595-432f-bcbd-d3a95ab183df" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bcb106c8-07f8-4578-b70e-2f7515c3e15e" />
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b5a38d9b-11a4-4da6-9e05-b70958db8520" />
