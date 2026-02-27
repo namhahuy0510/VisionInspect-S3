@@ -66,3 +66,5 @@ https://www.tinkercad.com/things/dURRD2ic4px-visioninspection-s3
 ## Plug and play board
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/bd0046f0-3a27-40c4-ac2d-10990b21da47" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b837b65-9ba0-4820-9fc6-c2308661f7b8" />
+
